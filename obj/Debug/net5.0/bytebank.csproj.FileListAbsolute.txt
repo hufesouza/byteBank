@@ -1,0 +1,15 @@
+/Users/hugof/Projects/bytebank/bytebank/bin/Debug/net5.0/bytebank.deps.json
+/Users/hugof/Projects/bytebank/bytebank/bin/Debug/net5.0/bytebank.runtimeconfig.json
+/Users/hugof/Projects/bytebank/bytebank/bin/Debug/net5.0/bytebank.runtimeconfig.dev.json
+/Users/hugof/Projects/bytebank/bytebank/bin/Debug/net5.0/bytebank.dll
+/Users/hugof/Projects/bytebank/bytebank/bin/Debug/net5.0/ref/bytebank.dll
+/Users/hugof/Projects/bytebank/bytebank/bin/Debug/net5.0/bytebank.pdb
+/Users/hugof/Projects/bytebank/bytebank/obj/Debug/net5.0/bytebank.csproj.AssemblyReference.cache
+/Users/hugof/Projects/bytebank/bytebank/obj/Debug/net5.0/bytebank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hugof/Projects/bytebank/bytebank/obj/Debug/net5.0/bytebank.AssemblyInfoInputs.cache
+/Users/hugof/Projects/bytebank/bytebank/obj/Debug/net5.0/bytebank.AssemblyInfo.cs
+/Users/hugof/Projects/bytebank/bytebank/obj/Debug/net5.0/bytebank.csproj.CoreCompileInputs.cache
+/Users/hugof/Projects/bytebank/bytebank/obj/Debug/net5.0/bytebank.dll
+/Users/hugof/Projects/bytebank/bytebank/obj/Debug/net5.0/ref/bytebank.dll
+/Users/hugof/Projects/bytebank/bytebank/obj/Debug/net5.0/bytebank.pdb
+/Users/hugof/Projects/bytebank/bytebank/obj/Debug/net5.0/bytebank.genruntimeconfig.cache
